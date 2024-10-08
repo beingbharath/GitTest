@@ -1,4 +1,4 @@
 hi this is a test file
 adding one line
 adding one more line
-adding another line
+removing this line
